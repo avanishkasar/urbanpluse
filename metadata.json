@@ -1,0 +1,6 @@
+{
+  "name": "UrbanPulse AI Road Intelligence Platform",
+  "description": "AI powered dashcam and fleet urban intelligence platform for road defect detection, GIS heatmap tracking, and automated NHAI PWD maintenance prioritization.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
